@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science related projects.
 - 📫 How to reach me: https://www.linkedin.com/in/priyanka-p-9b4b38168
 - ⚡ Fun fact: I work fast while listening to music.
-![linkedin](/images/logo.png)
-Format: ![linkedin](https://www.linkedin.com/in/priyanka-p-9b4b38168)
+- [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://www.linkedin.com/in/priyanka-p-9b4b38168)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
