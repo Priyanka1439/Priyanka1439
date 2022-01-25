@@ -45,7 +45,7 @@
       alt="react" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40" /> </a> </p>
   
-  <h3>Statistical Data :-</h3>
+  <h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanka1439&show_icons=true&locale=en&layout=compact"
     alt="pr-pw" /></p>
